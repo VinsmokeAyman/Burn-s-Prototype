@@ -1,6 +1,5 @@
 {
   "name": "burn-s",
-  "homepage": "https://VinsmokeAyman.github.io/Burn-s-Prototype",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -11,7 +10,6 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "gh-pages": "^6.3.0",
     "react": "^19.2.8",
     "react-dom": "^19.2.8"
   },
